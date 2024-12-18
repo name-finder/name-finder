@@ -1,5 +1,6 @@
 pandas
 seaborn
 matplotlib
+statsmodels
 requests
-lxml
+beautifulsoup4
