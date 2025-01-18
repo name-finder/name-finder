@@ -1,7 +1,4 @@
 pandas
 seaborn
-matplotlib
-statsmodels
 requests
-beautifulsoup4
 Flask
